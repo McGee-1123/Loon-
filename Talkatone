@@ -1,3 +1,4 @@
-HOST-SUFFIX,tktn.be
+#某些节点无法直接使用talkatone，所以需要分流策略
 IP-CIDR,205.164.56.0/24
 IP-CIDR,69.46.75.0/24
+DOMAIN-SUFFIX,tktn.be
